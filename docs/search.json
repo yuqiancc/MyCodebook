@@ -3,17 +3,17 @@
     {
       "path": "about.html",
       "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "description": "This is my personal blogs for my projects of data analytics. Hope you have fun here!",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-11-01T13:31:45-06:00"
+      "last_modified": "2022-11-02T12:01:31-06:00"
     },
     {
       "path": "index.html",
       "title": "MyCodebook",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-11-01T13:31:46-06:00"
+      "last_modified": "2022-11-02T12:01:32-06:00"
     }
   ],
   "collections": ["posts/posts.json"]

@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-11-02-my-second-blog-postthis-one-will-be-really-good/",
+    "title": "Blog Project",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Yuqian Cheng",
+        "url": "https://www.linkedin.com/in/yqkalley/"
+      }
+    ],
+    "date": "2022-11-02",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-11-02T12:17:31-06:00",
+    "input_file": "Blog-Project.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to MyCodebook",
     "description": "Welcome to our new blog, MyCodebook. We hope you enjoy \nreading what we have to say!",

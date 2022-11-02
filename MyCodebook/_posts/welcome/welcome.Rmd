@@ -1,13 +1,12 @@
 ---
-title: "Welcome to A cool name of my blog"
+title: "Welcome to MyCodebook"
 description: |
-  Welcome to our new blog, A cool name of my blog. We hope you enjoy 
-  reading what we have to say!
+  Here are all the analytical projects I have done! Hope you have fun! 
 author:
   - name: Yuqian Cheng
-    url: https://example.com/yuqiancheng
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+    url: https://www.linkedin.com/in/yqkalley/
+    affiliation: University of Denver
+    affiliation_url: https://www.du.edu/
 date: 11-01-2022
 output:
   distill::distill_article:
