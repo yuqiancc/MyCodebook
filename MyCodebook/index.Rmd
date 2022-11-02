@@ -1,7 +1,7 @@
 ---
-title: "A cool name of my Website"
+title: "MyCodebook"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Welcome to MyCodebook. I hope you enjoy it!
 site: distill::distill_website
 ---
 

@@ -10,11 +10,11 @@
     },
     {
       "path": "index.html",
-      "title": "A cool name of my Website",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "MyCodebook",
+      "description": "Welcome to MyCodebook. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-11-01T13:25:44-06:00"
+      "last_modified": "2022-11-02T12:15:51-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
