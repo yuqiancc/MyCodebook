@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "This is my personal blogs for my projects of data analytics. Hope you have fun here!",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-11-02T12:23:42-06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "MyCodebook",
+      "description": "Welcome to MyCodebook. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-11-02T12:15:51-06:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
